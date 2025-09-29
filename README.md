@@ -11,5 +11,6 @@ Hi, I'm Ase! :D Full-stack software engineer with background in web and ML/AI. I
 </div>
 
 #### Contact
+[![GMail Badge](https://img.shields.io/badge/asemorales.tech@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asemorales.tech@gmail.com)
 
-[![Linkedin Badge](https://img.shields.io/badge/IrishMorales-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irish-danielle-morales/) [![GMail Badge](https://img.shields.io/badge/asemorales.tech@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asemorales.tech@gmail.com)
+_Replies at UTC+8. I will get back to you within 48 hours._
