@@ -1,6 +1,6 @@
-![image](https://github.com/user-attachments/assets/92b612ce-373f-4067-b974-90ea37f4dc1f)
+<img width="2256" height="630" alt="image" src="https://github.com/user-attachments/assets/eebdc2b4-07d4-4987-9f29-5d03b8838274" />
 
-Hi, I'm Ase! Computational research and software engineer (full-stack & ML/AI). Interested in complexity & computability.
+Research software engineer bridging complexity, computability, and cognition. Previously engineered fintech & voice AI systems for startups.
 
 ## GitHub Stats
 <div style="display:inline;">
@@ -11,6 +11,6 @@ Hi, I'm Ase! Computational research and software engineer (full-stack & ML/AI). 
 </div>
 
 ## Contact
-[![GMail Badge](https://img.shields.io/badge/hi@asemorales.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hi@asemorales.com)
+I limit correspondence during research cycles to prioritize deep work. Please allow a few days for a response. Thank you for your patience.
 
-_Replies at UTC+8. I will get back to you within 48 hours._
+[![GMail Badge](https://img.shields.io/badge/hi@asemorales.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hi@asemorales.com)
