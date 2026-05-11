@@ -1,6 +1,7 @@
 <img width="2256" height="630" alt="image" src="https://github.com/user-attachments/assets/eebdc2b4-07d4-4987-9f29-5d03b8838274" />
 
-Research software engineer bridging complexity, computability, and cognition. Previously engineered fintech & voice AI systems for startups.
+
+Research software engineer interested in complexity, computability, and cognition.
 
 ## GitHub Stats
 <div style="display:inline;">
